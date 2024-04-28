@@ -1,0 +1,8 @@
+name: ConversationQuests
+version: 1.0
+description: Quests module for Conversation
+author: Browsit
+website: https://github.com/Browsit/ConversationQuestsModule
+
+main: org.browsit.conversationquests
+depend: [Conversation, Quests]
