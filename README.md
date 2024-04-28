@@ -3,8 +3,8 @@ Adds Conversation objectives to Quests
 
 ## Download
 Distributed through these fine vendors:
-- SpigotMC (TBA)
-- Lectern (TBA)
+- SpigotMC (https://www.spigotmc.org/resources/conversation-quests-module.116442/)
+- Lectern (https://lectern.browsit.org/resources/resource/50-conversation-quests-module/)
 
 ## Usage
 DO NOT PUT IN YOUR /plugins FOLDER. Place in /Quests/modules only!
